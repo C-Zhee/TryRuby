@@ -24,3 +24,6 @@ protein.each { |meat,rating|
 
 puts protein 
 
+5.times { print "Lemonz "}
+
+5.times { |time| puts time }
