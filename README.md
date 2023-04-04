@@ -18,5 +18,17 @@ finished
 4/1/23
 
 Started section 5
+finished
 
+4/3/23
 
+Started section 6
+finished
+
+4/4/23
+
+Started section 7
+finished
+
+Started section 8
+finished
